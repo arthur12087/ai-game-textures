@@ -1,0 +1,4 @@
+interface:
+  display_name: "Texturas de jogo com IA"
+  short_description: "Cria texturas PBR com GPT Images e acabamento"
+  default_prompt: "Use $ai-game-textures para criar um conjunto PBR de textura de jogo com GPT Images e validar o tiling."
